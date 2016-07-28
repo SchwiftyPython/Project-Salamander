@@ -12,6 +12,8 @@ What I have here is a little code that is capable of producing one of three biom
       
 Example
 
+![alt tag](https://s31.postimg.org/oewaqwqmj/Project_Salamander_temperate.png)
+
 This is my initial success. It’s not much to look at yet, but time and effort will change that.
 
 
