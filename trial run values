@@ -1,0 +1,19 @@
+Temperate
+max	 .49
+min	-.59
+avg	 .05
+
+Arid
+max	 .58
+min	-.79
+avg	 .1
+
+Tropical
+max	 .63
+min	-.49
+avg	 .07
+
+Tundra
+max	 .83 
+min	-.83
+avg	 .00
